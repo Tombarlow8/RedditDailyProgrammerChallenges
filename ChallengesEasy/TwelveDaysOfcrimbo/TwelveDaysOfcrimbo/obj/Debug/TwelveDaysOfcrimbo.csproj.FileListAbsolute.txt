@@ -1,0 +1,6 @@
+D:\Visual Studio 2017 Projects\TwelveDaysOfcrimbo\TwelveDaysOfcrimbo\bin\Debug\TwelveDaysOfcrimbo.exe.config
+D:\Visual Studio 2017 Projects\TwelveDaysOfcrimbo\TwelveDaysOfcrimbo\bin\Debug\TwelveDaysOfcrimbo.exe
+D:\Visual Studio 2017 Projects\TwelveDaysOfcrimbo\TwelveDaysOfcrimbo\bin\Debug\TwelveDaysOfcrimbo.pdb
+D:\Visual Studio 2017 Projects\TwelveDaysOfcrimbo\TwelveDaysOfcrimbo\obj\Debug\TwelveDaysOfcrimbo.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\TwelveDaysOfcrimbo\TwelveDaysOfcrimbo\obj\Debug\TwelveDaysOfcrimbo.exe
+D:\Visual Studio 2017 Projects\TwelveDaysOfcrimbo\TwelveDaysOfcrimbo\obj\Debug\TwelveDaysOfcrimbo.pdb
