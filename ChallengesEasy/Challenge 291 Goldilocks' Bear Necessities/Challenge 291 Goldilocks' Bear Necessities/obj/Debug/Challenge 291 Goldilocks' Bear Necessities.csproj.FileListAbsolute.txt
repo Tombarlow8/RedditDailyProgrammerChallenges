@@ -1,0 +1,6 @@
+D:\Visual Studio 2017 Projects\Challenge 291 Goldilocks' Bear Necessities\Challenge 291 Goldilocks' Bear Necessities\bin\Debug\Challenge 291 Goldilocks' Bear Necessities.exe.config
+D:\Visual Studio 2017 Projects\Challenge 291 Goldilocks' Bear Necessities\Challenge 291 Goldilocks' Bear Necessities\bin\Debug\Challenge 291 Goldilocks' Bear Necessities.exe
+D:\Visual Studio 2017 Projects\Challenge 291 Goldilocks' Bear Necessities\Challenge 291 Goldilocks' Bear Necessities\bin\Debug\Challenge 291 Goldilocks' Bear Necessities.pdb
+D:\Visual Studio 2017 Projects\Challenge 291 Goldilocks' Bear Necessities\Challenge 291 Goldilocks' Bear Necessities\obj\Debug\Challenge 291 Goldilocks' Bear Necessities.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\Challenge 291 Goldilocks' Bear Necessities\Challenge 291 Goldilocks' Bear Necessities\obj\Debug\Challenge 291 Goldilocks' Bear Necessities.exe
+D:\Visual Studio 2017 Projects\Challenge 291 Goldilocks' Bear Necessities\Challenge 291 Goldilocks' Bear Necessities\obj\Debug\Challenge 291 Goldilocks' Bear Necessities.pdb
