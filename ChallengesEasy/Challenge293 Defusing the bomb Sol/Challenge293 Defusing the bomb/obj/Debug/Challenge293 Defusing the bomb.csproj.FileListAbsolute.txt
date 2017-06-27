@@ -1,0 +1,6 @@
+D:\Visual Studio 2017 Projects\Challenge293 Defusing the bomb Sol\Challenge293 Defusing the bomb\bin\Debug\Challenge293 Defusing the bomb.exe.config
+D:\Visual Studio 2017 Projects\Challenge293 Defusing the bomb Sol\Challenge293 Defusing the bomb\bin\Debug\Challenge293 Defusing the bomb.exe
+D:\Visual Studio 2017 Projects\Challenge293 Defusing the bomb Sol\Challenge293 Defusing the bomb\bin\Debug\Challenge293 Defusing the bomb.pdb
+D:\Visual Studio 2017 Projects\Challenge293 Defusing the bomb Sol\Challenge293 Defusing the bomb\obj\Debug\Challenge293 Defusing the bomb.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\Challenge293 Defusing the bomb Sol\Challenge293 Defusing the bomb\obj\Debug\Challenge293 Defusing the bomb.exe
+D:\Visual Studio 2017 Projects\Challenge293 Defusing the bomb Sol\Challenge293 Defusing the bomb\obj\Debug\Challenge293 Defusing the bomb.pdb
