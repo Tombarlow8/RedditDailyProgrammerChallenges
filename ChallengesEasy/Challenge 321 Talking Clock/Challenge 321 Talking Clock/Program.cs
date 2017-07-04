@@ -80,7 +80,7 @@ namespace Challenge_321_Talking_Clock
                     }
                 }
 
-                if (hour > 12)
+                if (hour > 11)
                 {
                     Console.Write(" PM");
                     Sp.Speak(" PM");

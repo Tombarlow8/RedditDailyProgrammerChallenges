@@ -5,3 +5,9 @@ D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking
 D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\obj\Debug\Challenge 321 Talking Clock.pdb
 D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe.CodeAnalysisLog.xml
 D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe.lastcodeanalysissucceeded
+D:\GitHub\RedditDailyProgrammerChallenges\ChallengesEasy\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe.config
+D:\GitHub\RedditDailyProgrammerChallenges\ChallengesEasy\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe
+D:\GitHub\RedditDailyProgrammerChallenges\ChallengesEasy\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.pdb
+D:\GitHub\RedditDailyProgrammerChallenges\ChallengesEasy\Challenge 321 Talking Clock\Challenge 321 Talking Clock\obj\Debug\Challenge 321 Talking Clock.csprojResolveAssemblyReference.cache
+D:\GitHub\RedditDailyProgrammerChallenges\ChallengesEasy\Challenge 321 Talking Clock\Challenge 321 Talking Clock\obj\Debug\Challenge 321 Talking Clock.exe
+D:\GitHub\RedditDailyProgrammerChallenges\ChallengesEasy\Challenge 321 Talking Clock\Challenge 321 Talking Clock\obj\Debug\Challenge 321 Talking Clock.pdb
