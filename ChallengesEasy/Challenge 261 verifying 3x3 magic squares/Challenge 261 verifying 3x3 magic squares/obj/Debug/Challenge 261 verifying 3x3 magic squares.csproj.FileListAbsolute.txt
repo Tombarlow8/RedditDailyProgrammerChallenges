@@ -1,0 +1,6 @@
+D:\Visual Studio 2017 Projects\Challenge 261 verifying 3x3 magic squares\Challenge 261 verifying 3x3 magic squares\bin\Debug\Challenge 261 verifying 3x3 magic squares.exe.config
+D:\Visual Studio 2017 Projects\Challenge 261 verifying 3x3 magic squares\Challenge 261 verifying 3x3 magic squares\bin\Debug\Challenge 261 verifying 3x3 magic squares.exe
+D:\Visual Studio 2017 Projects\Challenge 261 verifying 3x3 magic squares\Challenge 261 verifying 3x3 magic squares\bin\Debug\Challenge 261 verifying 3x3 magic squares.pdb
+D:\Visual Studio 2017 Projects\Challenge 261 verifying 3x3 magic squares\Challenge 261 verifying 3x3 magic squares\obj\Debug\Challenge 261 verifying 3x3 magic squares.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\Challenge 261 verifying 3x3 magic squares\Challenge 261 verifying 3x3 magic squares\obj\Debug\Challenge 261 verifying 3x3 magic squares.exe
+D:\Visual Studio 2017 Projects\Challenge 261 verifying 3x3 magic squares\Challenge 261 verifying 3x3 magic squares\obj\Debug\Challenge 261 verifying 3x3 magic squares.pdb

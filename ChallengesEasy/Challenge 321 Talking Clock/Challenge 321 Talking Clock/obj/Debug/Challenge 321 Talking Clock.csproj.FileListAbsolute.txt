@@ -1,0 +1,7 @@
+D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe.config
+D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe
+D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.pdb
+D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\obj\Debug\Challenge 321 Talking Clock.exe
+D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\obj\Debug\Challenge 321 Talking Clock.pdb
+D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe.CodeAnalysisLog.xml
+D:\Visual Studio 2017 Projects\Challenge 321 Talking Clock\Challenge 321 Talking Clock\bin\Debug\Challenge 321 Talking Clock.exe.lastcodeanalysissucceeded
