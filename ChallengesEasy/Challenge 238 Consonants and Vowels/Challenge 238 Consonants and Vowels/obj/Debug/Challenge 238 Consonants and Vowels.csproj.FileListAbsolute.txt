@@ -1,0 +1,6 @@
+D:\Visual Studio 2017 Projects\Challenge 238 Consonants and Vowels\Challenge 238 Consonants and Vowels\bin\Debug\Challenge 238 Consonants and Vowels.exe.config
+D:\Visual Studio 2017 Projects\Challenge 238 Consonants and Vowels\Challenge 238 Consonants and Vowels\bin\Debug\Challenge 238 Consonants and Vowels.exe
+D:\Visual Studio 2017 Projects\Challenge 238 Consonants and Vowels\Challenge 238 Consonants and Vowels\bin\Debug\Challenge 238 Consonants and Vowels.pdb
+D:\Visual Studio 2017 Projects\Challenge 238 Consonants and Vowels\Challenge 238 Consonants and Vowels\obj\Debug\Challenge 238 Consonants and Vowels.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\Challenge 238 Consonants and Vowels\Challenge 238 Consonants and Vowels\obj\Debug\Challenge 238 Consonants and Vowels.exe
+D:\Visual Studio 2017 Projects\Challenge 238 Consonants and Vowels\Challenge 238 Consonants and Vowels\obj\Debug\Challenge 238 Consonants and Vowels.pdb
