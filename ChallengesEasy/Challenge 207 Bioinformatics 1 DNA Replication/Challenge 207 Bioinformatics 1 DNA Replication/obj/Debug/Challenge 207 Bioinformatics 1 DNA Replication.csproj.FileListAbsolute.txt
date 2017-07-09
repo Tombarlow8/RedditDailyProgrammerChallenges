@@ -1,0 +1,6 @@
+D:\Visual Studio 2017 Projects\Challenge 207 Bioinformatics 1 DNA Replication\Challenge 207 Bioinformatics 1 DNA Replication\bin\Debug\Challenge 207 Bioinformatics 1 DNA Replication.exe.config
+D:\Visual Studio 2017 Projects\Challenge 207 Bioinformatics 1 DNA Replication\Challenge 207 Bioinformatics 1 DNA Replication\bin\Debug\Challenge 207 Bioinformatics 1 DNA Replication.exe
+D:\Visual Studio 2017 Projects\Challenge 207 Bioinformatics 1 DNA Replication\Challenge 207 Bioinformatics 1 DNA Replication\bin\Debug\Challenge 207 Bioinformatics 1 DNA Replication.pdb
+D:\Visual Studio 2017 Projects\Challenge 207 Bioinformatics 1 DNA Replication\Challenge 207 Bioinformatics 1 DNA Replication\obj\Debug\Challenge 207 Bioinformatics 1 DNA Replication.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\Challenge 207 Bioinformatics 1 DNA Replication\Challenge 207 Bioinformatics 1 DNA Replication\obj\Debug\Challenge 207 Bioinformatics 1 DNA Replication.exe
+D:\Visual Studio 2017 Projects\Challenge 207 Bioinformatics 1 DNA Replication\Challenge 207 Bioinformatics 1 DNA Replication\obj\Debug\Challenge 207 Bioinformatics 1 DNA Replication.pdb
