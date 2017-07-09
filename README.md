@@ -17,6 +17,8 @@ https://www.reddit.com/r/dailyprogrammer/comments/4dccix/20160404_challenge_261_
 
 https://np.reddit.com/r/dailyprogrammer/comments/6jr76h/20170627_challenge_321_easy_talking_clock/
 
+https://www.reddit.com/r/dailyprogrammer/comments/3q9vpn/20151026_challenge_238_easy_consonants_and_vowels/
+
 Intermediate Challenges:
 
 https://www.reddit.com/r/dailyprogrammer/comments/6d29om/20170524_challenge_316_intermediate_sydney/
