@@ -1,0 +1,6 @@
+D:\Visual Studio 2017 Projects\Challenge 239 A Game of Threes\Challenge 239 A Game of Threes\bin\Debug\Challenge 239 A Game of Threes.exe.config
+D:\Visual Studio 2017 Projects\Challenge 239 A Game of Threes\Challenge 239 A Game of Threes\bin\Debug\Challenge 239 A Game of Threes.exe
+D:\Visual Studio 2017 Projects\Challenge 239 A Game of Threes\Challenge 239 A Game of Threes\bin\Debug\Challenge 239 A Game of Threes.pdb
+D:\Visual Studio 2017 Projects\Challenge 239 A Game of Threes\Challenge 239 A Game of Threes\obj\Debug\Challenge 239 A Game of Threes.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2017 Projects\Challenge 239 A Game of Threes\Challenge 239 A Game of Threes\obj\Debug\Challenge 239 A Game of Threes.exe
+D:\Visual Studio 2017 Projects\Challenge 239 A Game of Threes\Challenge 239 A Game of Threes\obj\Debug\Challenge 239 A Game of Threes.pdb
