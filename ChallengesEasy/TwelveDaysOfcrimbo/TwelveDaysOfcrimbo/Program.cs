@@ -29,7 +29,7 @@ namespace TwelveDaysOfcrimbo
                 {
                     if (j != 0)
                     {
-                        Lyrics[0] = "and Partridge in a Pear Tree.";
+                        Lyrics[0] = "and a Partridge in a Pear Tree.";
                         Console.WriteLine(Lyrics[j]);                       
                         j--;
                     }
